@@ -8,7 +8,7 @@ Excited to showcase my latest Power BI dashboard project, which analyzes and vis
 
 🔍 Dashboard Highlights:
 
-Key Metrics at a Glance:
+    -- Key Metrics at a Glance:
 
 Total Employees: 587
 Average Age: 37
