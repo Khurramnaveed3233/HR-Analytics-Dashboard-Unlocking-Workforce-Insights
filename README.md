@@ -13,15 +13,17 @@ Key Metrics at a Glance:
 - **Total Employees:** 587
 
   - **Average Age:** 37
-Average Salary: 6K
-Attrition Rate: 0%
-Average Tenure: 7 Years
+  - **Average Salary:** 6K
+  - **Attrition Rate:** 0%
+  - **Average Tenure:** 7 Years
 
-Gender Breakdown:
-   Male Employees: 582
-   Female Employees: 379
+- **Gender Breakdown:**
+
+  - **Male Employees:** 582
+  - **Female Employees:** 379
    
-Job Satisfaction by Roles:
+- **Job Satisfaction by Roles:**
+
 Analyzed satisfaction levels for roles such as Laboratory Technicians, Research Scientists, Managers, and others.
 
 Age Distribution:
