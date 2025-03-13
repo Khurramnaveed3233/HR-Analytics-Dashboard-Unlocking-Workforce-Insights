@@ -8,9 +8,9 @@ Excited to showcase my latest Power BI dashboard project, which analyzes and vis
 
 🔍 Dashboard Highlights:
 
-    -- Key Metrics at a Glance:
+Key Metrics at a Glance:
 
-Total Employees: 587
+-- Total Employees: 587
 Average Age: 37
 Average Salary: 6K
 Attrition Rate: 0%
