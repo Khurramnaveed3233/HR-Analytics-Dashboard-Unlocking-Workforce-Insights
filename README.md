@@ -12,7 +12,7 @@ Key Metrics at a Glance:
 
 - **Total Employees:** 587
 
-Average Age: 37
+  - **Average Age:** 37
 Average Salary: 6K
 Attrition Rate: 0%
 Average Tenure: 7 Years
