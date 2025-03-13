@@ -24,31 +24,33 @@ Key Metrics at a Glance:
    
 - **Job Satisfaction by Roles:**
 
-Analyzed satisfaction levels for roles such as Laboratory Technicians, Research Scientists, Managers, and others.
+  - **Analyzed satisfaction levels for roles such as Laboratory Technicians, Research Scientists, Managers, and others.**
+    
+- **Age Distribution:**
+  
+  - **Visualized employee distribution across age groups, with the highest concentration in the 26-35 range.**
 
-Age Distribution:
-Visualized employee distribution across age groups, with the highest concentration in the 26-35 range.
+- **Educational Background:**
 
-Educational Background:
+  - **39% have a Technical Degree.**
+  - **39% are from Life Sciences.**
+  - **Other fields include Medical and General Education.**
 
-39% have a Technical Degree.
-39% are from Life Sciences.
-Other fields include Medical and General Education.
+- **Trends Over Time:**
 
-Trends Over Time:
-Line graph displays attrition and engagement trends across 10 years.
+  - **Line graph displays attrition and engagement trends across 10 years.**
 
 🎯 Project Goals:
 
-Simplify complex HR data for actionable insights.
-Enhance workforce planning and retention strategies.
-Empower HR professionals with intuitive data visualizations.
+  - **Simplify complex HR data for actionable insights.**
+  - **Enhance workforce planning and retention strategies.**
+  - **Empower HR professionals with intuitive data visualizations.**
 
 💡 Key Skills Demonstrated:
 
-Data Preparation & Cleaning: Preprocessed employee data for quality reporting.
-Interactive Reporting: Enabled drill-through for department-specific metrics.
-Advanced Visuals: Designed a clean and user-friendly layout for executives and HR teams.
+  - **Data Preparation & Cleaning: Preprocessed employee data for quality reporting.**
+  - **Interactive Reporting: Enabled drill-through for department-specific metrics.**
+  - **Advanced Visuals: Designed a clean and user-friendly layout for executives and HR teams.**
 
 This project demonstrates how HR teams can harness data to improve employee satisfaction, retention, and overall performance.
 
