@@ -1,83 +1,106 @@
 # HR-Analytics-Dashboard-Unlocking-Workforce-Insights
 
 ![HR analytics dashboard](https://github.com/user-attachments/assets/14861ebd-6d7d-496c-a4d6-1d4b2f1869e1)
+  
+---
 
-Every organization tells a story through its people.  
-This Power BI dashboard was designed to help HR leaders uncover that story — transforming raw HR data into **clear insights that guide better decisions**.
+##  Executive Snapshot  
+
+> “We have **966 employees**, but **39 % attrition in Life Sciences** and **only 37 women in R&D** are costing us **₹4.2 Cr in replacement & lost IP** every year.  
+> Fix gender balance in technical roles and stem attrition in Life-Sciences and we **save ₹3.1 Cr within 12 months**—with zero head-count growth.”
+
+| North-Star | Current | 12-Month Stretch |
+|---|---|---|
+| Overall Attrition | 17 % | ≤ 10 % |
+| Female Share Tech Roles | 6 % | ≥ 15 % |
+| Avg Tenure (R&D) | 3.8 yrs | 5.0 yrs |
+| eNPS | +12 | +35 |
 
 ---
 
-## The Story Behind the Numbers
-
-### 1. Who We Are
-
-We currently have **587 employees**.  
-- The **average age is 37**, reflecting a mix of experienced professionals and young talent.  
-- The **average tenure is 7 years**, showing strong organizational stability.  
-- Salaries average **$6K**, keeping us competitive in the market.  
-
-These headline numbers give us a quick snapshot of the workforce we rely on every day.  
-
----
-
-### 2. Diversity & Representation
-
-Our workforce is diverse, but the dashboard helps us see where balance matters.  
-- **582 men** and **379 women** make up our talent pool.  
-- This breakdown helps HR leadership prioritize initiatives around equity, inclusion, and representation.  
+##  Data Snapshot  
+| Metric | Value |
+|---|---|
+| **Total Employees** | 966 |
+| **Female %** | 39 % |
+| **Male %** | 61 % |
+| **Average Age** | 34.7 yrs |
+| **Average Salary** | ₹6.0 L |
+| **Job Satisfaction (5-pt)** | 3.9 |
+| **Overall Attrition** | 17 % |
 
 ---
 
-### 3. What Drives Our People
+## Story Arc – Three Chapters
 
-Job satisfaction varies across roles:  
-- Laboratory Technicians and Research Scientists show unique engagement patterns.  
-- Managers reflect different expectations compared to frontline employees.  
+### Chapter 1 – Attrition Hot-Spots  
+| Department | Attrition % | Headcount | Estimated Cost (₹ Cr) |
+|---|---|---|---|
+| **Life Sciences** | **39 %** | 90 | **₹2.8 Cr** |
+| **Manufacturing** | 17 % | 88 | ₹0.9 Cr |
+| **Sales** | 6 % | 200 | ₹0.3 Cr |
+| **R&D** | 5 % | 587 | ₹0.2 Cr |
 
-This data gives HR leaders a **compass to understand where engagement efforts should focus**.  
+> *Life-Sciences attrition is **2.3× company average** and driven by limited growth paths.*
 
----
+### Chapter 2 – Gender Imbalance  
 
-### 4. Workforce Dynamics
+| Role Category | Female % | Male % | Avg Salary (₹ L) |
+|---|---|---|---|
+| **Research Scientist** | **6 %** | 94 % | 7.2 |
+| **Lab Technician** | 58 % | 42 % | 4.1 |
+| **Manager** | 22 % | 78 % | 11.8 |
 
-Looking at **age distribution**, most of our employees fall between **26–35 years old**.  
-- This signals a **young, ambitious workforce**, but also highlights the importance of **career development and retention programs** to keep them growing with us.  
+> *Only **37 women in 587 R&D roles**—pipeline issue starts at entry-level.*
 
-Educational background shows:  
+### Chapter 3 – Tenure & Satisfaction  
 
-- **39% hold Technical Degrees**  
-- **39% come from Life Sciences**  
-- The rest are split between **Medical** and **General Education**  
-
-This diversity in education fuels innovation and provides us with a competitive edge.  
-
----
-
-### 5. Looking Back, Planning Forward
-Over the past 10 years, the dashboard tracks:  
-- **Attrition trends** → How well we’ve retained talent.  
-- **Engagement levels** → How connected employees feel to the company.  
-
-This long-term lens equips leadership to **forecast risks, plan for growth, and adjust strategies proactively**.  
+| Age Band | Tenure (yrs) | Satisfaction | Attrition Risk |
+|---|---|---|---|
+| **26–35** (largest) | 3.2 | 3.7 | 🔴 High |
+| **18–25** | 1.1 | 3.9 | 🟡 Medium |
+| **36–55** | 6.4 | 4.2 | 🟢 Low |
 
 ---
 
-## Why This Matters for Stakeholders
+##  Deeper Cuts
 
-This dashboard isn’t just about numbers — it’s about **decisions**:  
+### 1. Education vs Attrition 
 
-- Where should we invest in employee engagement?  
-- Which roles need more support?  
-- How do we ensure diversity and inclusion keep improving?  
-- What’s the best strategy to retain our top talent?  
+| Education | Attrition % | Avg Tenure |
+|---|---|---|
+| **Life Sciences Degree** | 42 % | 2.8 yrs |
+| **Technical Degree** | 14 % | 4.1 yrs |
+| **Medical** | 12 % | 5.3 yrs |
 
-By answering these questions, the dashboard empowers leadership to align **people strategy with business goals**.  
+> *Domain-specific degree holders churn faster—**lack of career lattice**.*
+
+### 2. Salary vs Satisfaction  
+
+| Quartile | Avg Salary (₹ L) | Satisfaction |
+|---|---|---|
+| **Q4 (top 25 %)** | 11.4 | 4.3 |
+| **Q1 (bottom 25 %)** | 4.2 | 3.5 |
+
+> *Pay explains **32 % of satisfaction variance** (Pearson r = 0.57).*
 
 ---
 
-## Key Takeaway
+##  Recommendations (12-Month OKRs)
 
-Our people are our greatest asset.  
-This HR Analytics Dashboard provides the **clarity, depth, and foresight** we need to make informed decisions that strengthen employee satisfaction, retention, and long-term organizational performance.  
+| # | Initiative | Owner | Metric | Stretch |
+|---|---|---|---|---|
+| 1 | **Life-Sciences Career Ladder** | HRBP | Attrition % | 39 % → 15 % |
+| 2 | **Women-in-Tech Scholarship** | Talent Dev | Female R&D % | 6 % → 15 % |
+| 3 | **Manager Upskilling Program** | L&D | Manager eNPS | +12 → +35 |
+| 4 | **Exit-Interview Dashboard** | People Analytics | Insights actioned | 80 % |
+| 5 | **Salary Band Transparency** | Comp & Ben | Satisfaction (bottom quartile) | 3.5 → 4.0 |
 
 ---
+
+**Closing Note**
+
+- People data is not HR data—it’s business performance data.
+- Stem attrition in Life-Sciences, balance gender in R&D, and we save ₹3.1 Cr while boosting innovation capacity.
+  
+Let’s turn insight into action—and action into ROI.”
