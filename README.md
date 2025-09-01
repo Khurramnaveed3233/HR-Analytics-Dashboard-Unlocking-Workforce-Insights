@@ -29,7 +29,7 @@ Key Metrics at a Glance:
 - **Age Distribution:**
   
   - **Visualized employee distribution across age groups, with the highest concentration in the 26-35 range.**
-
+  
 - **Educational Background:**
 
   - **39% have a Technical Degree.**
