@@ -33,9 +33,10 @@ This dashboard equips HR leaders and executives with a clear, data-driven view o
 
 - **39% Technical Degree**  
 - **39% Life Sciences**  
-- ⚕Medical & General Education represent the remaining share.  
+- Medical & General Education represent the remaining share.  
 
 ### Trends Over Time
+
 - 10-year **attrition & engagement trendline**, enabling long-term workforce stability analysis.  
 
 ---
